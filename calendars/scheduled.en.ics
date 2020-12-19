@@ -1,0 +1,8 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Statusfy//status.tjhsst.edu//calendar//scheduled//EN
+NAME:CSL Status
+X-WR-CALNAME:CSL Status
+TIMEZONE-ID:UTC
+X-WR-TIMEZONE:UTC
+END:VCALENDAR
