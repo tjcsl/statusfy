@@ -13,6 +13,10 @@
             "title": "Mail",
             "description": "Webmail and mail servers"
         },
+        "ras": {
+            "title": "Remote Access Servers",
+            "description": "ras1 and ras2"
+        },
         "cluster": {
             "title": "Cluster",
             "description": "High performance compute clusters and Jupyterhub"
@@ -20,6 +24,10 @@
         "storage": {
             "title": "Storage",
             "description": "File store accessible from many CSL services"
+        },
+        "auth": {
+            "title": "Authentication",
+            "description": "Authentication to CSL services"
         }
     }
   }
