@@ -1,0 +1,26 @@
+{
+  "title": "CSL Status",
+  "description": "CSL Status",
+  "systems": {
+    "items": {
+        "ion": {
+            "title": "Ion"
+        },
+        "director": {
+            "title": "Director"
+        },
+        "mail": {
+            "title": "Mail",
+            "description": "Webmail and mail servers"
+        },
+        "cluster": {
+            "title": "Cluster",
+            "description": "High performance compute clusters and Jupyterhub"
+        },
+        "storage": {
+            "title": "Storage",
+            "description": "File store accessible from many CSL services"
+        }
+    }
+  }
+}

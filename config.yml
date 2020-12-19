@@ -1,0 +1,19 @@
+title: CSL Status
+name: csl_status
+description: CSL Status
+defaultLocale: en
+baseUrl: "https://status.tjhsst.edu"
+locales:
+  - code: en
+    iso: en-US
+    name: English
+    file: en.json
+content:
+  frontMatterFormat: yaml
+  systems:
+    - "ion"
+    - "director"
+    - "mail"
+    - "cluster"
+    - "storage"
+
