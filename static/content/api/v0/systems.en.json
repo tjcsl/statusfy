@@ -1,1 +1,1 @@
-[{"name":"ion","status":"operational","order":1},{"name":"director","status":"operational","order":2},{"name":"mail","status":"operational","order":3},{"name":"cluster","status":"operational","order":4},{"name":"storage","status":"operational","order":5}]
+[{"name":"ion","status":"under-maintenance","order":1},{"name":"director","status":"under-maintenance","order":2},{"name":"mail","status":"under-maintenance","order":3},{"name":"cluster","status":"under-maintenance","order":4},{"name":"storage","status":"under-maintenance","order":5}]
