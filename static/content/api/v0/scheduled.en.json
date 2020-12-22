@@ -1,1 +1,1 @@
-{"count":0,"incidents":[]}
+{"count":1,"incidents":[{"id":"8d6d9d2c","title":"Database upgrades","date":"2020-12-22T21:17:54.673Z","modified":"2020-12-22T21:21:17.836Z","scheduled":"2020-12-23T14:00:00.000Z","duration":2880,"severity":"under-maintenance","affectedsystems":["ion","director"],"resolved":false,"content":"<p>We are upgrading the databases on both Ion and Director. During this period, Ion will be inaccessible, and Director sites' Postgres databases will not be accessible.</p>\n<!--- language code: en -->\n"}]}
