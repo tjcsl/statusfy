@@ -8,9 +8,10 @@ affectedsystems:
   - mail
   - cluster
   - storage
-resolved: false
+resolved: true
 scheduled: '2020-12-18T21:00:00.000Z'
 duration: '20160'
+modified: '2021-01-04T23:07:21.302Z'
 ---
 An upgrade of our storage cluster will be performed over Winter Break. Some slowdowns or periods of interruption is expected.
 
