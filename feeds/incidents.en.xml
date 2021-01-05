@@ -4,10 +4,19 @@
         <title>CSL Status</title>
         <link>https://status.tjhsst.edu</link>
         <description>CSL Status</description>
-        <lastBuildDate>Tue, 05 Jan 2021 01:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2021 01:38:27 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.tjhsst.edu/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Temporary Cluster outage]]></title>
+            <link>https://status.tjhsst.edu/incidents/570cd1dd</link>
+            <guid>https://status.tjhsst.edu/incidents/570cd1dd</guid>
+            <pubDate>Tue, 05 Jan 2021 01:36:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Launching jobs using Slurm or using Jupyterhub may fail.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Database upgrades]]></title>
             <link>https://status.tjhsst.edu/incidents/8d6d9d2c</link>
