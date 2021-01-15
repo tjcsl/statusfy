@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 */2 * * *"
   workflow_dispatch:
 
 jobs:
@@ -35,4 +35,6 @@ jobs:
           BRANCH: gh-pages
           FOLDER: dist
           CLEAN: true
+          GIT_CONFIG_NAME: "CSL Bot"
+          GIT_CONFIG_EMAIL: "lead-sysadmins@tjhsst.edu"
 
