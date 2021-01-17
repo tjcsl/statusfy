@@ -1,0 +1,1 @@
+{"id":"6a2658cc","title":"Director degraded performance","date":"2021-01-17T23:25:19.005Z","modified":"2021-01-17T23:26:38.753Z","scheduled":null,"severity":"degraded-performance","affectedsystems":["director"],"resolved":false,"content":"<p>Director may be laggy or slow during this time. We are looking into the issue.</p>\n<!--- language code: en -->\n"}
