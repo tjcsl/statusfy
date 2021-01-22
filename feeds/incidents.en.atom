@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.tjhsst.edu</id>
     <title>CSL Status</title>
-    <updated>2021-01-21T22:35:51.131Z</updated>
+    <updated>2021-01-22T00:55:46.195Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.tjhsst.edu"/>
     <link rel="self" href="https://status.tjhsst.edu/feeds/incidents.en.atom"/>
     <subtitle>CSL Status</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Sending mail to @fcps.edu emails may not work]]></title>
+        <id>https://status.tjhsst.edu/incidents/58f4c7fe</id>
+        <link href="https://status.tjhsst.edu/incidents/58f4c7fe"/>
+        <updated>2021-01-21T15:19:15.807Z</updated>
+        <content type="html"><![CDATA[<p>Sending mail to @fcps.edu emails may result in a &quot;Your access to submit messages to this e-mail system has been restricted&quot; message.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Director degraded performance]]></title>
         <id>https://status.tjhsst.edu/incidents/6a2658cc</id>
