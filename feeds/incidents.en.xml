@@ -4,7 +4,7 @@
         <title>CSL Status</title>
         <link>https://status.tjhsst.edu</link>
         <description>CSL Status</description>
-        <lastBuildDate>Fri, 12 Feb 2021 22:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2021 22:21:55 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.tjhsst.edu/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -14,6 +14,13 @@
             <guid>https://status.tjhsst.edu/incidents/1fdda894</guid>
             <pubDate>Fri, 12 Feb 2021 22:13:44 GMT</pubDate>
             <content:encoded><![CDATA[<p>Director may be inaccessible at this time. We are looking into the issue.</p>
+<div class="update-block">
+          <div class="update-block-date">2021-02-12T22:19:14.819Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>This issue has been resolved.</p>
+</div></div></div>
 <!--- language code: en -->
 ]]></content:encoded>
         </item>

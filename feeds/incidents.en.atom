@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.tjhsst.edu</id>
     <title>CSL Status</title>
-    <updated>2021-02-12T22:15:38.588Z</updated>
+    <updated>2021-02-12T22:21:55.033Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.tjhsst.edu"/>
     <link rel="self" href="https://status.tjhsst.edu/feeds/incidents.en.atom"/>
@@ -13,6 +13,13 @@
         <link href="https://status.tjhsst.edu/incidents/1fdda894"/>
         <updated>2021-02-12T22:13:44.793Z</updated>
         <content type="html"><![CDATA[<p>Director may be inaccessible at this time. We are looking into the issue.</p>
+<div class="update-block">
+          <div class="update-block-date">2021-02-12T22:19:14.819Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>This issue has been resolved.</p>
+</div></div></div>
 <!--- language code: en -->
 ]]></content>
     </entry>
