@@ -4,7 +4,7 @@
         <title>CSL Status</title>
         <link>https://status.tjhsst.edu</link>
         <description>CSL Status</description>
-        <lastBuildDate>Sat, 13 Feb 2021 00:02:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 00:14:37 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.tjhsst.edu/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -14,6 +14,9 @@
             <guid>https://status.tjhsst.edu/incidents/6dd182ac</guid>
             <pubDate>Sat, 13 Feb 2021 00:01:03 GMT</pubDate>
             <content:encoded><![CDATA[<p>The Director management page may not be accessible.</p>
+<p>::: Resolved | '2021-02-13T00:06:39.038Z'
+This issue has been resolved.
+:::</p>
 <!--- language code: en -->
 ]]></content:encoded>
         </item>
