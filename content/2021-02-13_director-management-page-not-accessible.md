@@ -9,7 +9,7 @@ modified: '2021-02-13T00:06:39.038Z'
 ---
 The Director management page may not be accessible.
 
-::: Resolved | '2021-02-13T00:06:39.038Z'
+::: Resolved | 2021-02-13T00:06:39.038Z
 This issue has been resolved.
 :::
 
