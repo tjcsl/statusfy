@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.tjhsst.edu</id>
     <title>CSL Status</title>
-    <updated>2021-02-24T22:15:45.968Z</updated>
+    <updated>2021-02-24T23:46:36.027Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.tjhsst.edu"/>
     <link rel="self" href="https://status.tjhsst.edu/feeds/incidents.en.atom"/>
     <subtitle>CSL Status</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Ion maintenance]]></title>
+        <id>https://status.tjhsst.edu/incidents/a41c563a</id>
+        <link href="https://status.tjhsst.edu/incidents/a41c563a"/>
+        <updated>2021-02-24T23:42:46.905Z</updated>
+        <content type="html"><![CDATA[<p>Ion is under maintenance and may be inaccessible at certain times.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Director management page not accessible]]></title>
         <id>https://status.tjhsst.edu/incidents/6dd182ac</id>
