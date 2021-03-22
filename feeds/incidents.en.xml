@@ -4,7 +4,7 @@
         <title>CSL Status</title>
         <link>https://status.tjhsst.edu</link>
         <description>CSL Status</description>
-        <lastBuildDate>Mon, 22 Mar 2021 13:57:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 14:11:50 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.tjhsst.edu/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -14,6 +14,13 @@
             <guid>https://status.tjhsst.edu/incidents/efb2bd80</guid>
             <pubDate>Mon, 22 Mar 2021 13:54:25 GMT</pubDate>
             <content:encoded><![CDATA[<p>There is an outage on our storage cluster.</p>
+<div class="update-block">
+          <div class="update-block-date">2021-03-22T14:08:19.119Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>This incident has been resolved.</p>
+</div></div></div>
 <!--- language code: en -->
 ]]></content:encoded>
         </item>
