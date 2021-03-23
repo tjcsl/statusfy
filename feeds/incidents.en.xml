@@ -4,7 +4,7 @@
         <title>CSL Status</title>
         <link>https://status.tjhsst.edu</link>
         <description>CSL Status</description>
-        <lastBuildDate>Tue, 23 Mar 2021 14:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Mar 2021 14:17:45 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.tjhsst.edu/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -20,6 +20,13 @@
             <div class="update-block-title">Monitoring</div>
             <div class="update-block-body">
 <p>A fix has been implemented and we are monitoring for any additional problems that may arise.</p>
+</div></div></div>
+<div class="update-block">
+          <div class="update-block-date">2021-03-23T14:15:36.022Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>This incident has been resolved.</p>
 </div></div></div>
 <!--- language code: en -->
 ]]></content:encoded>
