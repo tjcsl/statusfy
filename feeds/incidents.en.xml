@@ -4,10 +4,19 @@
         <title>CSL Status</title>
         <link>https://status.tjhsst.edu</link>
         <description>CSL Status</description>
-        <lastBuildDate>Tue, 23 Mar 2021 00:38:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Mar 2021 02:12:28 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.tjhsst.edu/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ion inaccessible]]></title>
+            <link>https://status.tjhsst.edu/incidents/e3e25a92</link>
+            <guid>https://status.tjhsst.edu/incidents/e3e25a92</guid>
+            <pubDate>Tue, 23 Mar 2021 02:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p>In certain cases, Ion may be inaccessible.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Storage cluster outage]]></title>
             <link>https://status.tjhsst.edu/incidents/efb2bd80</link>
