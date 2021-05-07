@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.tjhsst.edu</id>
     <title>CSL Status</title>
-    <updated>2021-05-07T18:24:07.215Z</updated>
+    <updated>2021-05-07T20:00:21.850Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.tjhsst.edu"/>
     <link rel="self" href="https://status.tjhsst.edu/feeds/incidents.en.atom"/>
     <subtitle>CSL Status</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Ion loading slowly]]></title>
+        <id>https://status.tjhsst.edu/incidents/0b9af39a</id>
+        <link href="https://status.tjhsst.edu/incidents/0b9af39a"/>
+        <updated>2021-05-07T19:30:37.038Z</updated>
+        <content type="html"><![CDATA[<p>Ion is currently experiencing slow load times. We believe this to be linked to backend storage issues.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elevated error rates]]></title>
         <id>https://status.tjhsst.edu/incidents/3b68c9ad</id>

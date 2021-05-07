@@ -4,10 +4,19 @@
         <title>CSL Status</title>
         <link>https://status.tjhsst.edu</link>
         <description>CSL Status</description>
-        <lastBuildDate>Fri, 07 May 2021 18:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 May 2021 20:00:21 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.tjhsst.edu/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ion loading slowly]]></title>
+            <link>https://status.tjhsst.edu/incidents/0b9af39a</link>
+            <guid>https://status.tjhsst.edu/incidents/0b9af39a</guid>
+            <pubDate>Fri, 07 May 2021 19:30:37 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Ion is currently experiencing slow load times. We believe this to be linked to backend storage issues.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Elevated error rates]]></title>
             <link>https://status.tjhsst.edu/incidents/3b68c9ad</link>
