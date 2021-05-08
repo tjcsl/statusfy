@@ -5,7 +5,8 @@ severity: degraded-performance
 affectedsystems:
   - ion
   - director
-resolved: false
+resolved: true
+modified: '2021-05-08T16:29:06.307Z'
 ---
 We are investigating elevated error rates (500s on Ion, error 28 on Director mentioning no free space available).
 
