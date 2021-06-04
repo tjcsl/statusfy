@@ -1,1 +1,1 @@
-{"id":"77a898d0","title":"Director down","date":"2021-06-04T22:33:44.141Z","modified":"2021-06-04T22:34:53.035Z","scheduled":null,"severity":"partial-outage","affectedsystems":["director"],"resolved":false,"content":"<p>Director is down.</p>\n<!--- language code: en -->\n"}
+{"id":"77a898d0","title":"Director down","date":"2021-06-04T22:33:44.141Z","modified":"2021-06-04T22:38:41.059Z","scheduled":null,"severity":"partial-outage","affectedsystems":["director"],"resolved":true,"content":"<p>Director is down.</p>\n<!--- language code: en -->\n"}
