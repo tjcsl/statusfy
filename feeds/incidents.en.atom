@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.tjhsst.edu</id>
     <title>CSL Status</title>
-    <updated>2021-08-02T14:13:40.978Z</updated>
+    <updated>2021-08-02T15:30:22.657Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.tjhsst.edu"/>
     <link rel="self" href="https://status.tjhsst.edu/feeds/incidents.en.atom"/>
     <subtitle>CSL Status</subtitle>
+    <entry>
+        <title type="html"><![CDATA[DNS outage]]></title>
+        <id>https://status.tjhsst.edu/incidents/e4048644</id>
+        <link href="https://status.tjhsst.edu/incidents/e4048644"/>
+        <updated>2021-08-02T15:28:59.868Z</updated>
+        <content type="html"><![CDATA[<p>We are aware that some DNS servers are not resolving the TJ nameservers properly leading to CSL services not loading.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Director down]]></title>
         <id>https://status.tjhsst.edu/incidents/77a898d0</id>

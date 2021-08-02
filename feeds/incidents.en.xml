@@ -4,10 +4,19 @@
         <title>CSL Status</title>
         <link>https://status.tjhsst.edu</link>
         <description>CSL Status</description>
-        <lastBuildDate>Mon, 02 Aug 2021 14:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 15:30:22 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.tjhsst.edu/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DNS outage]]></title>
+            <link>https://status.tjhsst.edu/incidents/e4048644</link>
+            <guid>https://status.tjhsst.edu/incidents/e4048644</guid>
+            <pubDate>Mon, 02 Aug 2021 15:28:59 GMT</pubDate>
+            <content:encoded><![CDATA[<p>We are aware that some DNS servers are not resolving the TJ nameservers properly leading to CSL services not loading.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Director down]]></title>
             <link>https://status.tjhsst.edu/incidents/77a898d0</link>
