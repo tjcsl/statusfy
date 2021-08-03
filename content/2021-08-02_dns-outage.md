@@ -7,7 +7,8 @@ affectedsystems:
   - director
   - mail
   - ras
-resolved: false
+resolved: true
+modified: '2021-08-03T13:01:06.398Z'
 ---
 We are aware that some DNS servers are not resolving the TJ nameservers properly leading to CSL services not loading.
 
