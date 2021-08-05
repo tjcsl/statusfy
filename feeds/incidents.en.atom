@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.tjhsst.edu</id>
     <title>CSL Status</title>
-    <updated>2021-08-05T12:04:56.269Z</updated>
+    <updated>2021-08-05T12:36:50.779Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.tjhsst.edu"/>
     <link rel="self" href="https://status.tjhsst.edu/feeds/incidents.en.atom"/>
     <subtitle>CSL Status</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Mailserver maintenance]]></title>
+        <id>https://status.tjhsst.edu/incidents/20771654</id>
+        <link href="https://status.tjhsst.edu/incidents/20771654"/>
+        <updated>2021-08-05T12:33:47.227Z</updated>
+        <content type="html"><![CDATA[<p>The authentication backend for mailservers is currently under maintenance</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DNS outage]]></title>
         <id>https://status.tjhsst.edu/incidents/e4048644</id>
