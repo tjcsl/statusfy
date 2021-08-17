@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.tjhsst.edu</id>
     <title>CSL Status</title>
-    <updated>2021-08-17T12:05:00.957Z</updated>
+    <updated>2021-08-17T13:39:06.075Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.tjhsst.edu"/>
     <link rel="self" href="https://status.tjhsst.edu/feeds/incidents.en.atom"/>
     <subtitle>CSL Status</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Unexpected server downtime]]></title>
+        <id>https://status.tjhsst.edu/incidents/e2f9064c</id>
+        <link href="https://status.tjhsst.edu/incidents/e2f9064c"/>
+        <updated>2021-08-17T13:37:44.813Z</updated>
+        <content type="html"><![CDATA[<p>There was unexpected server downtime last night. We apologize for the inconvenience.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mailserver maintenance]]></title>
         <id>https://status.tjhsst.edu/incidents/20771654</id>
