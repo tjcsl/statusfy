@@ -6,7 +6,8 @@ affectedsystems:
   - director
   - ras
   - cluster
-resolved: false
+resolved: true
+modified: '2021-08-18T15:35:57.321Z'
 ---
 There was unexpected server downtime last night. We apologize for the inconvenience.
 
