@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.tjhsst.edu</id>
     <title>CSL Status</title>
-    <updated>2021-09-19T20:05:05.878Z</updated>
+    <updated>2021-09-19T21:46:39.826Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.tjhsst.edu"/>
     <link rel="self" href="https://status.tjhsst.edu/feeds/incidents.en.atom"/>
     <subtitle>CSL Status</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Major Outage]]></title>
+        <id>https://status.tjhsst.edu/incidents/0d144f54</id>
+        <link href="https://status.tjhsst.edu/incidents/0d144f54"/>
+        <updated>2021-09-19T07:30:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Due to power issues, these services and the sites that run on them including all student sites and JupyterHub are unaccessable.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mail services experiencing outages]]></title>
         <id>https://status.tjhsst.edu/incidents/6c8e0302</id>

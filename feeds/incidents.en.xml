@@ -4,10 +4,19 @@
         <title>CSL Status</title>
         <link>https://status.tjhsst.edu</link>
         <description>CSL Status</description>
-        <lastBuildDate>Sun, 19 Sep 2021 20:05:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 21:46:39 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.tjhsst.edu/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Major Outage]]></title>
+            <link>https://status.tjhsst.edu/incidents/0d144f54</link>
+            <guid>https://status.tjhsst.edu/incidents/0d144f54</guid>
+            <pubDate>Sun, 19 Sep 2021 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Due to power issues, these services and the sites that run on them including all student sites and JupyterHub are unaccessable.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Mail services experiencing outages]]></title>
             <link>https://status.tjhsst.edu/incidents/6c8e0302</link>
