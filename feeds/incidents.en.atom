@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.tjhsst.edu</id>
     <title>CSL Status</title>
-    <updated>2021-10-26T14:05:09.923Z</updated>
+    <updated>2021-10-26T14:05:53.176Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.tjhsst.edu"/>
     <link rel="self" href="https://status.tjhsst.edu/feeds/incidents.en.atom"/>
     <subtitle>CSL Status</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Mail servers offline]]></title>
+        <id>https://status.tjhsst.edu/incidents/11cd7a64</id>
+        <link href="https://status.tjhsst.edu/incidents/11cd7a64"/>
+        <updated>2021-10-26T14:03:19.059Z</updated>
+        <content type="html"><![CDATA[<p>Effective immediately, TJ's mail servers will be offline until further notice in order to comply with a request from FCPS. If you would like to contact the Sysadmins, please email Shreyas at smayya337@gmail.com and Lauren at pmd7211@gmail.com. We apologize for the inconvenience and thank you for your cooperation.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rack Down]]></title>
         <id>https://status.tjhsst.edu/incidents/77822711</id>
