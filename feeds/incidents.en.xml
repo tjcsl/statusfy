@@ -4,10 +4,19 @@
         <title>CSL Status</title>
         <link>https://status.tjhsst.edu</link>
         <description>CSL Status</description>
-        <lastBuildDate>Fri, 10 Dec 2021 04:05:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 04:46:33 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.tjhsst.edu/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CSL services offline]]></title>
+            <link>https://status.tjhsst.edu/incidents/1d2b3fb2</link>
+            <guid>https://status.tjhsst.edu/incidents/1d2b3fb2</guid>
+            <pubDate>Fri, 10 Dec 2021 04:44:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Certain CSL services are offline, we are working to resolve the issue.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Mail servers offline]]></title>
             <link>https://status.tjhsst.edu/incidents/11cd7a64</link>

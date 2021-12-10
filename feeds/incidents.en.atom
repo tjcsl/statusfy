@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.tjhsst.edu</id>
     <title>CSL Status</title>
-    <updated>2021-12-10T04:05:05.049Z</updated>
+    <updated>2021-12-10T04:46:33.960Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.tjhsst.edu"/>
     <link rel="self" href="https://status.tjhsst.edu/feeds/incidents.en.atom"/>
     <subtitle>CSL Status</subtitle>
+    <entry>
+        <title type="html"><![CDATA[CSL services offline]]></title>
+        <id>https://status.tjhsst.edu/incidents/1d2b3fb2</id>
+        <link href="https://status.tjhsst.edu/incidents/1d2b3fb2"/>
+        <updated>2021-12-10T04:44:46.018Z</updated>
+        <content type="html"><![CDATA[<p>Certain CSL services are offline, we are working to resolve the issue.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mail servers offline]]></title>
         <id>https://status.tjhsst.edu/incidents/11cd7a64</id>
