@@ -5,7 +5,8 @@ severity: major-outage
 affectedsystems:
   - director
   - ras
-resolved: false
+resolved: true
+modified: '2021-12-10T06:06:26.001Z'
 ---
 Certain CSL services are offline, we are working to resolve the issue.
 
