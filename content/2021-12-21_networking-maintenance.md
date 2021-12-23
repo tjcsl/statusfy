@@ -10,7 +10,7 @@ affectedsystems:
   - cluster
   - storage
   - auth
-resolved: false
+resolved: true 
 ---
 Users may experience temporary outages as we make updates to our networking configuration.
 
