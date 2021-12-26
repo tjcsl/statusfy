@@ -4,10 +4,19 @@
         <title>CSL Status</title>
         <link>https://status.tjhsst.edu</link>
         <description>CSL Status</description>
-        <lastBuildDate>Sun, 26 Dec 2021 16:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 17:52:23 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.tjhsst.edu/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[RASes Down]]></title>
+            <link>https://status.tjhsst.edu/incidents/33b28802</link>
+            <guid>https://status.tjhsst.edu/incidents/33b28802</guid>
+            <pubDate>Sun, 26 Dec 2021 17:50:37 GMT</pubDate>
+            <content:encoded><![CDATA[<p>The CSL Remote Access Servers unexpectedly went offline on Thursday 12/23. We are investigating the issue and hope to restore both RASes to service soon.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Networking Maintenance]]></title>
             <link>https://status.tjhsst.edu/incidents/f8e55ec6</link>
