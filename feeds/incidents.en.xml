@@ -4,10 +4,19 @@
         <title>CSL Status</title>
         <link>https://status.tjhsst.edu</link>
         <description>CSL Status</description>
-        <lastBuildDate>Wed, 29 Dec 2021 22:04:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 23:30:58 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.tjhsst.edu/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ion down]]></title>
+            <link>https://status.tjhsst.edu/incidents/bb328110</link>
+            <guid>https://status.tjhsst.edu/incidents/bb328110</guid>
+            <pubDate>Wed, 29 Dec 2021 23:29:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Ion is down and a fix should be in place in about 5 minutes</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[RASes Down]]></title>
             <link>https://status.tjhsst.edu/incidents/33b28802</link>
