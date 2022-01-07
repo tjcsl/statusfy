@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.tjhsst.edu</id>
     <title>CSL Status</title>
-    <updated>2022-01-07T18:07:12.779Z</updated>
+    <updated>2022-01-07T18:16:45.670Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.tjhsst.edu"/>
     <link rel="self" href="https://status.tjhsst.edu/feeds/incidents.en.atom"/>
     <subtitle>CSL Status</subtitle>
+    <entry>
+        <title type="html"><![CDATA[JupyterHub Failing to Spawn Servers]]></title>
+        <id>https://status.tjhsst.edu/incidents/893c8fa0</id>
+        <link href="https://status.tjhsst.edu/incidents/893c8fa0"/>
+        <updated>2022-01-07T18:14:49.368Z</updated>
+        <content type="html"><![CDATA[<p>Upgrades to JupyterHub resulted in an unexpected failure to spawn servers. We are investigating the incident and hope to return JupyterHub to full functionality soon.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ion down]]></title>
         <id>https://status.tjhsst.edu/incidents/bb328110</id>
